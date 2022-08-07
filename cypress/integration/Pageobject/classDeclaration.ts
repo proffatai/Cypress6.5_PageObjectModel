@@ -1,5 +1,6 @@
 /// <refrence types="cypress" />
-export class LoginPage{
+export class LoginPage  //we had to use the export keyword before the class Name because we need to export the class to the login.js file
+{   
 
     // Css attribute for the login
      useName= '#uname';
