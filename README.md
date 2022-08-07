@@ -1,0 +1,1 @@
+This is a design principle that requires us to keep the objects and methods / actions separate from test script. This is done to ensure efficient reuseability and it allows testing to be easy, faster and more efficient
